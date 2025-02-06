@@ -10,7 +10,8 @@ I am a Software Engineer student at UNILESTE, in Minas Gerais - Brazil, and I ha
 *   🤝  I'm open to collaborating on interesting projects as a developer, designer
 
 ### Skills
-<img align="right" width="320" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjExamExYzJ4cml1ZzgyY3NubnMwc3oxb3JuMXdxd2l3YmpnMW4yZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KiXiO1iR3fFhC/giphy.gif"/>
+<img align="right" width="225" src="https://github.com/user-attachments/assets/df37ada7-873f-4264-ac55-63a60a41741b"/>
+
 
 
 <p align="left">
