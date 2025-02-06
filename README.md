@@ -1,5 +1,8 @@
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> My name is Gustavo Peçanha
 
+<hr>
+<img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+
 I am a Software Engineer student at UNILESTE, in Minas Gerais - Brazil, and I have been studying programming for about 2 years.
 
 > Also, I am passionate about UI and UX design.
