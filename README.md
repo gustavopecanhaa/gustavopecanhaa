@@ -1,7 +1,5 @@
 # Hi <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="30" height="30" /> My name is Gustavo Peçanha
 
-<hr>
-
 I am a Software Engineer student at UNILESTE, in Minas Gerais - Brazil, and I have been studying programming for about 2 years.
 
 > Also, I am passionate about UI and UX design.
@@ -12,7 +10,8 @@ I am a Software Engineer student at UNILESTE, in Minas Gerais - Brazil, and I ha
 *   🤝  I'm open to collaborating on interesting projects as a developer, designer
 
 ### Skills
-<img align="right" width="150" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif"/>
+<img align="right" width="320" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjExamExYzJ4cml1ZzgyY3NubnMwc3oxb3JuMXdxd2l3YmpnMW4yZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KiXiO1iR3fFhC/giphy.gif"/>
+
 
 <p align="left">
   <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
