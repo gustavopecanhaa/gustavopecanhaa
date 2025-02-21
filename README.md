@@ -6,8 +6,8 @@ I am a Software Engineer student at UNILESTE, in Minas Gerais - Brazil, and I ha
 
 *   🌍  I'm based in Minas Gerais, Brazil
 *   ✉️  You can contact me at [gustavopecanhaa@outlook.com](mailto:gustavopecanhaa@outlook.com)
-*   🧠  I'm learning JAVA , SDBS and software architecture
-*   🤝  I'm open to collaborating on interesting projects as a developer, designer
+*   🧠  I'm learning JAVA, Spring Framework, SDBS and software architecture
+*   🤝  I'm open to collaborating on interesting projects as a developer
 
 ### Skills
 <img align="right" width="225" src="https://github.com/user-attachments/assets/df37ada7-873f-4264-ac55-63a60a41741b"/>
