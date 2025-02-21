@@ -2,9 +2,7 @@
 
 I am a Software Engineer student at UNILESTE, in Minas Gerais - Brazil, and I have been studying programming for about 2 years.
 
-> Also, I am passionate about UI and UX design.
-
-*   🌍  I'm based in Minas Gerais, Brazil
+*   🌍  I'm living in Coronel Fabriciano - Minas Gerais
 *   ✉️  You can contact me at [gustavopecanhaa@outlook.com](mailto:gustavopecanhaa@outlook.com)
 *   🧠  I'm learning JAVA, Spring Framework, SDBS and software architecture
 *   🤝  I'm open to collaborating on interesting projects as a developer
